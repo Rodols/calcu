@@ -215,10 +215,10 @@
             // 
             // pantalla
             // 
-            this.pantalla.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.pantalla.Font = new System.Drawing.Font("Microsoft Sans Serif", 26F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.pantalla.Location = new System.Drawing.Point(41, 48);
             this.pantalla.Name = "pantalla";
-            this.pantalla.Size = new System.Drawing.Size(247, 44);
+            this.pantalla.Size = new System.Drawing.Size(247, 47);
             this.pantalla.TabIndex = 16;
             this.pantalla.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
